@@ -1,0 +1,18 @@
+.register{
+    color: white;
+    background-color:royalblue;
+    text-align: center;
+}
+
+.set{
+    height: 30px;
+    width: 30px;
+    /* background-color: ; */
+}
+.text{
+    font-size: 20px;
+}
+.btn{
+    height: 40px;
+    width: 400px;
+}
